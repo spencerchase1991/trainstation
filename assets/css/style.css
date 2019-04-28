@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1461831402920-90e36acc8160?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background: rgb(248, 190, 124);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.panel-primary>.panel-heading {
+    background:  rgb(248, 190, 124);
+    border-bottom: black 1px solid;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.panel-primary {
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.panel-title {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#addTrainBtn {
+        border-radius: 3px;
+        font-size:12px;
+        font-family:arial, helvetica, sans-serif;
+        padding: 10px 10px 10px 10px;
+        text-decoration:none;
+        display:inline-block;
+        text-shadow: -1px -1px 0 FF9843(0,0,0,0.3);
+        font-weight:bold;
+        color: black;
+        background-color: rgb(248, 190, 124);
+        border:1px solid #a0a0a0;
+        font-family: 'Courier New', Courier, monospace;
+        
+  
+        
+}

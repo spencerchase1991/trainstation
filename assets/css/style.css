@@ -41,4 +41,19 @@ body {
         
   
         
+}/* responsive */
+
+@media screen and (max-width: 320px) {
+    body {
+        background-image: url(https://images.unsplash.com/photo-1461831402920-90e36acc8160?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+    
+@media screen and (max-width: 320px) {
+.jumbotron {
+    background: rgb(248, 190, 124);
+    font-family: 'Courier New', Courier, monospace;
+    }
 }
